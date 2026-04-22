@@ -1,7 +1,7 @@
 python-snappy>=0.5.4
 toolz>=0.10.0
 partd>=1.0.0
-cloudpickle>=1.2.1
+cloudpickle>=3.1.2
 distributed>=1.28.1
 pandas>=0.24.0
 numpy>=1.15.4
